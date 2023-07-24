@@ -1,0 +1,10 @@
+Student_No./	Name/			Section
+221043/		Bernales, John Mari/	BC2DA
+221892/		Caspe, Alijah/		BC2DA
+221179/		Ferrer, MaryJoy/	BC2DA
+221719/		Ico, Franchelene/	BC2DA
+221893/		Montemayor, Rolando/	BC2DA
+220334/		Regencia, Rheymark/	BC2DA
+221762/		Marquez, Venus/		BC2DA
+222058/		Carlos, Eric/		BC2DA
+		
